@@ -14,8 +14,8 @@ services:
       build: ./prezzo
       ports:
         - "3000:3000"
-      volumes:
-        - .volumes/client:/client
+      volumes: 
+        - ./volumes/client:/client
       environment:
         - DEBUG=1
  
