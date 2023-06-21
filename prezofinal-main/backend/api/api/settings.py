@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 CSRF_TRUSTED_ORIGINS = ['http://192.168.201.20:8790','http://192.168.201.20:8790/',
-                        'http://41.242.51.98:443/','http://41.242.51.98:443']
+                        'http://41.242.51.98:443/','http://41.242.51.98:443','https://bomsandprie.space/','https://bomsandprie.space']
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_ALL_ORIGINS = True #['https://admin.volksmining.com/']
 
@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'blog',
     'corsheaders',
+    'brochure',
 ]
 
 MIDDLEWARE = [

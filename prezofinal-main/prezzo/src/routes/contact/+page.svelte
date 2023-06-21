@@ -11,8 +11,7 @@
 
 
 <!-- svelte-ignore a11y-missing-attribute -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m12!1m3!1d507383.4605144208!2d7.490118686202564!3d8.96268092866987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m4!3e6!4m0!4m1!2sNO%206%2C%20Lumsar%20street%2C%20Abacha%20Estate%2C%20Zone%204%2C%20Abuja!5e0!3m2!1sen!2sng!4v1679553034918!5m2!1sen!2sng" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class=" pt-[2rem]"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.0171268302647!2d7.482240699999999!3d9.0622017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e0b02fb0f87e9%3A0xe46d61e9202e61!2sPrezzo%20Shed%20Investments%20Limited!5e0!3m2!1sen!2sng!4v1686836799745!5m2!1sen!2sng" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <div class=" flex flex-col justify-center lg:items-center md:items-center md:flex-row lg:flex-row px-3 py-[3rem] gap-[1.5rem] md:w-full lg:w-full">
