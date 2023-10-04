@@ -27,10 +27,9 @@ SECRET_KEY = 'django-insecure-7fnynm=dny3**t87ec**2h^^0v9_d8d&%5ik_$jjo5(3tmwv%4
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['http://192.168.201.20:8790','http://192.168.201.20:8790/',
-                        'http://41.242.51.98:443/','http://41.242.51.98:443','https://bomsandprie.space/','https://bomsandprie.space']
+CSRF_TRUSTED_ORIGINS = ['https://admin.prezzogroup.ng/','http://admin.prezzogroup.ng']
 CORS_ORIGIN_ALLOW_ALL = True
-CORS_ALLOW_ALL_ORIGINS = True #['https://admin.volksmining.com/']
+CORS_ALLOW_ALL_ORIGINS = True 
 
 
 
