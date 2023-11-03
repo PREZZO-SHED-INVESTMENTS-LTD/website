@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-7fnynm=dny3**t87ec**2h^^0v9_d8d&%5ik_$jjo5(3tmwv%4
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://admin.prezzogroup.ng/','http://admin.prezzogroup.ng']
+CSRF_TRUSTED_ORIGINS = ['https://admin.prezzogroup.ng/','http://admin.prezzogroup.ng','https://doorika.online']
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_ALL_ORIGINS = True 
 
